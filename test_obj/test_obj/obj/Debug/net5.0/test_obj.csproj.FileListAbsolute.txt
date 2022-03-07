@@ -1,0 +1,16 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\bin\Debug\net5.0\test_obj.exe
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\bin\Debug\net5.0\test_obj.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\bin\Debug\net5.0\test_obj.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\bin\Debug\net5.0\test_obj.runtimeconfig.dev.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\bin\Debug\net5.0\test_obj.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\bin\Debug\net5.0\test_obj.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\test_obj.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\test_obj.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\test_obj.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\test_obj.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\test_obj.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\test_obj.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\refint\test_obj.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\test_obj.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\test_obj.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Demo html\ReferenceCode22Feb-main\ReferenceCode_22Feb\test_obj\test_obj\obj\Debug\net5.0\ref\test_obj.dll

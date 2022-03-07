@@ -1,0 +1,56 @@
+SELECT - extracts data from a database
+UPDATE - updates data in a database
+DELETE - deletes data from a database
+INSERT INTO - inserts new data into a database
+CREATE DATABASE - creates a new database
+ALTER DATABASE - modifies a database
+CREATE TABLE - creates a new table
+ALTER TABLE - modifies a table
+DROP TABLE - deletes a table
+
+CREATE DATABASE Student_master;
+
+CREATE TABLE Students (
+    Sid int auto_increment,
+    Fame varchar(20),
+    Lname varchar(20),
+    Age int(2),
+    Std int(2),
+    Grads varchar(1)
+);
+
+
+
+INSERT INTO Students (Fname, Lname, Age, Std, Grads)
+VALUES ('jaynesh', 'wayne', '12', '10', 'A');
+
+
+INSERT INTO Students (Fname, Lname, Age, Std, Grads)
+VALUES ('Batman', 'patel', '14', '12', 'A');
+
+
+INSERT INTO Students (Fname, Lname, Age, Std, Grads)
+VALUES ('Superman', 'prajapati', '11', '10', 'C');
+
+
+INSERT INTO Students (Fname, Lname, Age, Std, Grads)
+VALUES ('joker', 'soni', '14', '10', 'B');
+
+
+INSERT INTO Students (Fname, Lname, Age, Std, Grads)
+VALUES ('Riddler', 'wislye', '12', '10', 'A');
+
+
+INSERT INTO Students (Fname, Lname, Age, Std, Grads)
+VALUES ('XYZ', 'ABC', '19', '14', 'A');
+
+SELECT Fname , Age FROM Students Where Grads = A;
+
+SELECT DISTINCT Std FROM Students;
+
+DELETE FROM Students WHERE Fname='XYZ';
+
+SELECT * FROM Students ORDER BY Age;
+
+
+
